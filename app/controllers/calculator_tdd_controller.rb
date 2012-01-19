@@ -1,0 +1,2 @@
+class CalculatorTddController < ApplicationController
+end
